@@ -93,7 +93,7 @@
   "parameter": [
     {
       "params": "url",
-      "example": "https://raw.githubusercontent.com/rikikangsc2-eng/rikikangsc2-eng.github.io/refs/heads/main/galery/marah.jpeg",
+      "example": "masukan url nua ",
       "opsional": false
     }
   ]
@@ -111,7 +111,7 @@
     },
     {
       "params": "url",
-      "example": "https://github.com/rikikangsc2-eng/rikikangsc2-eng.github.io/raw/refs/heads/main/galery/48d21e8d94804cb1ba91c87d42c4a967.jpeg",
+      "example": "masukan url nya",
       "opsional": false
     }
   ]
